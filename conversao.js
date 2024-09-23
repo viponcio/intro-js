@@ -1,3 +1,3 @@
 const dois = '2';
 
-console.log(parseFloat("34.45"))
+console.log(parseInt("34.45"))
